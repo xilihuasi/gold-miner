@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/TODO1/creating-a-simple-recommender-system-in-python-using-pandas.md](https://github.com/xitu/gold-miner/blob/master/TODO1/creating-a-simple-recommender-system-in-python-using-pandas.md)
 > * 译者：[xilihuasi](https://github.com/xilihuasi)
-> * 校对者：[TrWestdoor](https://github.com/TrWestdoor)
+> * 校对者：[TrWestdoor](https://github.com/TrWestdoor), [zhusimaji](https://github.com/zhusimaji)
 
 # 使用 Pandas 在 Python 中创建一个简单的推荐系统
 
